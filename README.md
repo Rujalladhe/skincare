@@ -19,3 +19,4 @@ python app.py
 cd frontend
 npm install
 npm start
+(.venv) PS C:\Users\Rujal\Desktop\project>
